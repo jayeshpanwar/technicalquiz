@@ -78,3 +78,17 @@ body{
     margin-bottom: 60px;
     font-weight: 500;
 } 
+ .home-content .start-btn {
+    
+    width: 190px;
+    height: 55px;
+    background: #27042e;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 6px;
+    box-shadow: 0 0 90px #f4ecf3;
+    font-size: 25px;
+    color: rgb(189, 125, 210);
+
+
+ }
