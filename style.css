@@ -6,7 +6,9 @@ font-family:'Poppins',sans-serif;
 }
 
 body{ 
-    color:lavenderblush;
+   
+    color:rgb(255, 255, 255);
+    text-shadow:0 0 90px #1a0417;
 }
 
 .header {
@@ -80,12 +82,12 @@ body{
 } 
  .home-content .start-btn {
     
-    width: 190px;
-    height: 55px;
-    background: #27042e;
+    width: 155px;
+    height: 45px;
+    background: #340a3c;
     border: 2px solid #fff;
     outline: none;
-    border-radius: 6px;
+    border-radius: 30px;
     box-shadow: 0 0 90px #f4ecf3;
     font-size: 25px;
     color: rgb(189, 125, 210);
