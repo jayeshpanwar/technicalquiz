@@ -27,16 +27,16 @@ body{
 
 .logo
 {
-    font-size: 36px;
+    font-size: 46px;
     color: aliceblue;
     text-decoration:none;
     font-weight: 900;
 }
 .navbar a {
-     font-size: 20 px;
+     font-size: 90 px;
      color: aliceblue;
      text-decoration: none;
-     font-weight: 500;
+     font-weight: 5600;
      margin-left: 40px;
 }
 

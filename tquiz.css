@@ -45,7 +45,7 @@
 }
 .main {
    
-    background: url('tq1.jpg')no-repeat;
+    background: url('pink\ bg.webp')no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -87,5 +87,5 @@
     box-shadow: 0 0 90px #f4ecf3;
     font-size: 25px;
     color: rgb(189, 125, 210);
-    position: 150pxs;
+    position: 550pxs;
 }
