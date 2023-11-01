@@ -42,7 +42,7 @@ body{
 
 .navbar a:hover,
 .navbar a.active {
-    color:purple;
+    color:rgb(185, 31, 149);
 
 }
 .main {
@@ -91,6 +91,15 @@ body{
     box-shadow: 0 0 90px #f4ecf3;
     font-size: 25px;
     color: rgb(189, 125, 210);
+    letter-spacing: 1px;
+    font-weight: 600;
+    cursor: pointer;
+    transition-duration: .5s;
+    box-shadow: none;
+ }
 
+ .home-content .start-btn:hover{
+    background:rgb(166, 15, 186);
+ 
 
  }
