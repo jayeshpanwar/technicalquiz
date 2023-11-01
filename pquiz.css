@@ -1,0 +1,156 @@
+
+*{
+    box-sizing: border-box;
+  }
+  body{
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #8931d1 100%);
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+  }
+  .quiz-container{
+    background-color: #c681cc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
+    width: 600px;
+    overflow: hidden;
+  }
+  .quiz-header{
+    padding: 4rem;
+  }
+  h2{
+    padding: 1rem;
+    text-align: center;
+    margin: 0;
+  }
+  ul{
+    list-style-type: none;
+    padding: 0;
+  }
+  ul li{
+    font-size: 1.2rem;
+    margin: 1rem 0;
+  }
+  ul li label{
+    cursor: pointer;
+  }
+  button{
+    background-color: #7c1173;
+    color: #fff;
+    border: none;
+    display: block;
+    width: 100%;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-family: inherit;
+    padding: 1.3rem;
+  }
+  button:hover{
+    background-color: #04adc4;
+  }
+  button:focus{
+    outline: none;
+    background-color: #44b927;
+  }
+  .home-content h1 {
+    font-size: 75px;
+    font-weight: 700;
+    text-shadow: 0 0 10px rgba(16, 2, 2, 0.3);
+    top:50px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Poppins',sans-serif;
+  }
+  
+  body{ 
+ 
+      color:rgb(255, 255, 255);
+      text-shadow:0 0 90px #1a0417;
+  }
+.header {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  padding: 20px 10%;
+  background:transparent;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+.logo
+{
+  font-size: 36px;
+  color: aliceblue;
+  text-decoration:none;
+  font-weight: 900;
+}
+.navbar a {
+   font-size: 20 px;
+   color: aliceblue;
+   text-decoration: none;
+   font-weight: 500;
+   margin-left: 40px;
+}
+
+.navbar a:hover,
+.navbar a.active {
+  color:purple;
+
+}
+.main {
+ 
+  background: url('tq1.jpg')no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.Home {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+.home-content {
+  max-width: 800px;
+  display: flex;
+  align-items: streach;
+  flex-direction: column;
+  pos
+}
+.home-content h1 {
+  font-size: 75px;
+  font-weight: 700;
+  text-shadow: 0 0 10px rgba(16, 2, 2, 0.3);
+  top:500px;
+}
+.home-content p {
+ font-style:oblique;
+  font-size: 16px;
+  text-align: center;
+  text-shadow: 0 0 10px  rgba(0, 0, 0, 0.3);
+  margin-bottom: 60px;
+  font-weight: 500;
+} 
+.home-content .C-button{
+  width: 255px;
+  height: 45px;
+  background: #340a3c;
+  border: 2px solid #fff;
+  outline: none;
+  border-radius: 30px;
+  box-shadow: 0 0 90px #f4ecf3;
+  font-size: 25px;
+  color: rgb(189, 125, 210);
+  position: 150pxs;
+}
