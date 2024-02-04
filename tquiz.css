@@ -26,13 +26,13 @@
 .logo
 {
     font-size: 36px;
-    color: aliceblue;
+    color: rgb(240, 252, 255);
     text-decoration:none;
     font-weight: 900;
 }
 .navbar a {
      font-size: 20 px;
-     color: aliceblue;
+     color: rgb(240, 251, 255);
      text-decoration: none;
      font-weight: 500;
      margin-left: 40px;
